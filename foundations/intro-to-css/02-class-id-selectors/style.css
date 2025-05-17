@@ -1,0 +1,19 @@
+.class {
+    background-color: #f08585;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.class.extra {
+    font-size: 24px;
+}
+
+#idfirst {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#idsecond {
+    background-color: #99ff99;
+    font-size: 24px;
+    font-weight: bold;
+}
